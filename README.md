@@ -3,7 +3,7 @@
 
 PLEASE ENSURE THAT YOU ARE CONNECTED TO THE INTERNET BEFORE PLAYING AS THE GAME UTILIZES GEMINI'S API
 
-The game utilizes the power of the Gemini chatbot to generate its narrative stories, the API calls are called via an a Google Apps Script
+The game utilizes the power of the Gemini language model to generate its narrative stories, the API calls are called via an a Google Apps Script
 
 Controls:
 
